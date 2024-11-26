@@ -1,0 +1,2 @@
+eodag>=3.0.1
+folium
