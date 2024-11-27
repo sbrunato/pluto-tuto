@@ -1,0 +1,5 @@
+eodag @ git+https://github.com/CS-SI/eodag@geodes-s3
+eodag-cube  @ git+https://github.com/CS-SI/eodag-cube@develop
+assumerole @ git+https://gitlab.cnes.fr/hpc/softs/assumerole@main
+ipywidgets
+matplotlib
